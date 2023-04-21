@@ -43,18 +43,18 @@ $(function () {
       }
     });
   }
-   //Saves user inpute
-   function textEntry() {
+  //Saves user inpute
+  function textEntry() {
     $('.saveBtn').on('click', function () {
       var key = $(this).parent().attr('id');
       var value = $(this).siblings('.description').val();
       localStorage.setItem(key, value);
     });
   }
-  
+
   hourlyColor();
   textEntry();
   refreshColor();
-  
+
   setInterval(updateTime, 1000);
 });

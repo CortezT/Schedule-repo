@@ -17,6 +17,10 @@ Finally your new main should be made and ready for branches to be created to edi
 ## Usage
 To use this page start by filling in each section with information of your daily work schedule to better orginize it. Then make suree to save each section to review it later to make changes.
 
+![Work Day Scheduler Screenshot](https://user-images.githubusercontent.com/126823522/233535764-d4e67a2f-8e99-4b5d-a6a3-61b088279b22.jpg)
+
+https://cortezt.github.io/Schedule-repo/
+
  ## Credits
 
  https://developer.mozilla.org/en-US/docs/Web/API/Scheduler
